@@ -1,0 +1,21 @@
+order_id,customer_id,product_name,category,quantity,unit_price,order_date,sales_rep,region
+1001,C001,Laptop Pro 15,Electronics,2,1299.99,2024-01-15,Alice Johnson,North America
+1002,C002,Wireless Headphones,Electronics,1,199.99,2024-01-16,Bob Smith,Europe
+1003,C003,Office Chair,Furniture,3,299.99,2024-01-17,Carol Davis,Asia Pacific
+1004,C001,Standing Desk,Furniture,1,599.99,2024-01-18,Alice Johnson,North America
+1005,C004,Smartphone X,Electronics,1,899.99,2024-01-19,David Wilson,North America
+1006,C005,Coffee Maker,Appliances,2,149.99,2024-01-20,Eve Brown,Europe
+1007,C006,Ergonomic Keyboard,Electronics,4,79.99,2024-01-21,Frank Miller,Asia Pacific
+1008,C002,Monitor 27inch,Electronics,2,399.99,2024-01-22,Bob Smith,Europe
+1009,C007,Desk Lamp,Furniture,1,89.99,2024-01-23,Carol Davis,Asia Pacific
+1010,C003,Tablet Pro,Electronics,1,649.99,2024-01-24,Alice Johnson,North America
+1011,C008,Blender,Appliances,1,199.99,2024-01-25,David Wilson,North America
+1012,C004,Bookshelf,Furniture,2,179.99,2024-01-26,Eve Brown,Europe
+1013,C009,Webcam HD,Electronics,3,99.99,2024-01-27,Frank Miller,Asia Pacific
+1014,C010,Air Purifier,Appliances,1,299.99,2024-01-28,Bob Smith,Europe
+1015,C005,Gaming Mouse,Electronics,2,59.99,2024-01-29,Carol Davis,Asia Pacific
+1016,C011,Dining Table,Furniture,1,799.99,2024-01-30,Alice Johnson,North America
+1017,C006,Microwave,Appliances,1,179.99,2024-02-01,David Wilson,North America
+1018,C012,Wireless Speaker,Electronics,2,129.99,2024-02-02,Eve Brown,Europe
+1019,C007,File Cabinet,Furniture,1,249.99,2024-02-03,Frank Miller,Asia Pacific
+1020,C013,Smart Watch,Electronics,1,399.99,2024-02-04,Bob Smith,Europe
